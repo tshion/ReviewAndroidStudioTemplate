@@ -1,0 +1,2 @@
+# ReviewAndroidStudioTemplate
+Android Studio バージョンごとにプロジェクト作成し、その変化をメモするためのリポジトリ
